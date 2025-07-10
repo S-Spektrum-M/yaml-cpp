@@ -1,11 +1,11 @@
 meta:
   min_ver: 0.0.1
 manifest:
-  name: yaml-cpp-catalyst
+  name: yaml-cpp
   type: SHAREDLIB
   version: 0.0.1
   description: Your Description Goes Here
-  provides: ""
+  provides: "libyaml-cpp.so"
   tooling:
     CC: clang
     CXX: clang++

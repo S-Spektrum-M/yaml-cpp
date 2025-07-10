@@ -1,11 +1,11 @@
 meta:
   min_ver: 0.0.1
 manifest:
-  name: yaml-cpp-catalyst
+  name: yaml-cpp
   type: STATICLIB
   version: 0.0.1
   description: Your Description Goes Here
-  provides: ""
+  provides: "libyaml-cpp.a"
   tooling:
     CC: clang
     CXX: clang++
